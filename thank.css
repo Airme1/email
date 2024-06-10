@@ -1,0 +1,17 @@
+body{
+    background-color: #271b1b79;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    margin: 10rem auto;
+    width: 80%;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin: 1.3rem;
+    font-size: 3rem;
+}
